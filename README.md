@@ -1,2 +1,2 @@
-# Ultimate-Professor
- Programa de aplicação de provas
+# Quiz
+ Simple Quiz program in Python.
