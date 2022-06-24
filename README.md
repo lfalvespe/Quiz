@@ -4,4 +4,5 @@
 <div align="center">
    <img src="preview1.png">
    <img src="preview2.png">
+   <img src="preview1.png">
 </div>
